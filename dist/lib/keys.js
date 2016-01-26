@@ -12,6 +12,7 @@ var Keys = {
   enter: 13,
   'return': 13,
   space: 32,
+  esc: 27,
   left: 37,
   up: 38,
   right: 39,
